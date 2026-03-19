@@ -1,5 +1,6 @@
 # IoT-Secure-Network-Mockup
 Create a detailed network map that balances security and easability 
+
 Project Overview:
 This project defines comprehensive network architecture for integrating IoT devices into a corporate environment. It addresses the Security vs. Convenience trade-off by implementing a Zero-Trust Architecture that prevents lateral movement, secures sensitive data, and reduces the impact of compromised devices through segmentation and strict access control.
 
